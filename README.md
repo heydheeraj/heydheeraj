@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Dheeraj
-- 👀 I’m interested in Backend debelopment
+- 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Spring Boot.
